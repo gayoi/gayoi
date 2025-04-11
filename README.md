@@ -1,6 +1,6 @@
-## Hi there 👋 I am Gayoung
+## Hi there 👋 
 
-### 💻 Tech Stack
+#### 💻 Tech Stack
 
 **Language**: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
@@ -13,11 +13,11 @@
 **Communication**:![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 
-### 🏃‍♀️ Activity
+#### 🏃‍♀️ Activity
 - TECHIT BACK-END SCHOOL 7기
 - 2024 멋쟁이사자처럼 대학동아리 12th | Back-End Track
 
-### 🛠️ Project
+#### 🛠️ Project
 - 신발 거래 체결 플랫폼 사이트 - HYPE
 - 실시간 채팅 기능을 포함한 콘서트 티켓팅 사이트 - LIVETICKET
 
