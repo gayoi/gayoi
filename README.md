@@ -12,10 +12,13 @@
 
 **Communication**:![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
+---
 
 #### 🏃‍♀️ Activity
 - TECHIT BACK-END SCHOOL 7기
 - 2024 멋쟁이사자처럼 대학동아리 12th | Back-End Track
+
+---
 
 #### 🛠️ Project
 - 신발 거래 체결 플랫폼 사이트 - HYPE
