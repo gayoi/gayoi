@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Gayoung
+
+### Tech Stack
+
+### Activity
+2024 멋쟁이사자처럼 대학동아리 12th | Back-End Track
+
+### Project
+
+
+
 
 <!--
 **gayoi/gayoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
