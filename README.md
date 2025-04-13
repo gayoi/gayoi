@@ -25,6 +25,8 @@
 - 실시간 채팅 기능을 포함한 콘서트 티켓팅 사이트 - LIVETICKET
 
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayoi)](https://github.com/gayoi/github-readme-stats)
 
 
 
